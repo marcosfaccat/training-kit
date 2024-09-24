@@ -1,7 +1,7 @@
 # GitHub Training Kit
 
 Open source courseware from the GitHub Professional Services team.
-
+Este é um arquivo editável para o TED da disciplina de engenharia de software.
 ## We ❤️ contributors like you
 
 **We’re eager to work with you**, our user community, to improve these materials and develop new ones. Please check out our [CONTRIBUTING guide](CONTRIBUTING.md) for more information on getting started.
